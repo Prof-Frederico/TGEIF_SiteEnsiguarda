@@ -1,0 +1,48 @@
+img {
+    width: 100%;
+}
+
+li {
+    float:left;
+    list-style-type: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.botao_inscricao {
+    background-color: #00839C;
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    width: 125px;
+}
+
+.botao_alojamento {
+    background-color: #1ABEA3;
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    width: 135px;
+}
+
+.botao_avaliacao {
+    background-color: #709204;
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    width: 250px;
+}
+
+.alinha_centro {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.informatica {
+    background-image: ;
+}
